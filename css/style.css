@@ -10,6 +10,7 @@
 .intro {
   position: relative;
   width: 100%;
+  height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -40,11 +41,11 @@ header .Logo img {
   color: #D6D5A8;
   font-size: 55px;
   text-transform: uppercase;
+  text-align: center;
   font-weight: 800;
   letter-spacing: 2px;
   line-height: 60px;
-  margin-bottom: 30px;
-
+  margin-bottom: 90px;
 }
 
 .conteudo .Informacoes h2 span {
